@@ -1,6 +1,6 @@
 Hey, Emil here
 
-I'm a .NET developer working at Beierholm. I'm using my GitHub account for side-projects using .NET and practicing front-end development.
+I'm a Software Engineer working at Lunar. I'm using my GitHub account for various side-projects.
 
 Feel free to reach out!
 
