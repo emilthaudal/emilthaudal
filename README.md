@@ -1,6 +1,6 @@
 Hey, Emil here
 
-I'm a Software Engineer working at Lunar. I'm using my GitHub account for various side-projects.
+I'm a Software Engineer working at Whiteaway Group. I'm using my GitHub account for various side-projects.
 
 Feel free to reach out!
 
